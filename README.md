@@ -1,4 +1,4 @@
-Project Link : https://rohankumbharkar15.github.io/Weather_App/
+Project Link : [https://rohankumbharkar15.github.io/Weather_App/](https://rohankumbharkar15.github.io/Weather_App_JavaScript/)
 
 Key Functionality :
 
